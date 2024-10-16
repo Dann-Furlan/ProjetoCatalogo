@@ -12,8 +12,14 @@ section{
     display:flex;
     justify-content: center;
 
-
 }
+header{
+        border-bottom: solid 2px rgb(54, 122, 26);
+        padding: 20px;
+        font-size: 32px;
+        color: rgb(54, 122, 26);
+}
+
 .texto {
     margin-right: 80px;
 }
