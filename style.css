@@ -33,3 +33,9 @@ p{
 img {
     height: 200px;
 }
+
+.videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
