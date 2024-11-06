@@ -45,5 +45,5 @@ img {
 }
 .videos img:hover {
     opacity: 1.0;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 250, 54);
 }
